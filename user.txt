@@ -1,0 +1,10 @@
+admin;password
+Luci;luci
+George;luci
+lucimara;luci
+Lucimara;lolo
+ge;lili
+igor;igor
+jose;jose
+cassia;cassia
+Leandro;leandro
